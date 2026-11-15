@@ -1,12 +1,36 @@
-> **Public Beta — MacTube 6.0.1**
-> Early public release for Apple Silicon Macs. Known issues and incomplete features may remain.
+# MacTube Beta Version 1
 
-# MacTube 6.0.1 Beta (29)
+The first public beta of MacTube, a free, open-source native YouTube and media client for Apple Silicon Macs.
 
-Independent native macOS media client for Apple Silicon, macOS 14 or later. Includes glass appearance options, customizable controls, native playback, downloads, local media collections, separate Music sources and verified yt-dlp update controls.
+## Features
 
-The candidate is ad-hoc signed, not Developer ID signed or notarized. Gatekeeper may require explicit approval in System Settings. Verify the published SHA-256 before opening.
+- Native YouTube video playback
+- Dedicated Music library and floating music player
+- Video and audio downloads
+- Custom local media libraries
+- Glass-inspired macOS interface
+- Fullscreen, Picture-in-Picture and mini-player
+- Customizable keyboard and mouse controls
+- Automatic yt-dlp updates
+- 60Hz, 120Hz and Match Display options
 
-Online service availability and content compatibility vary. FFmpeg-dependent merging/conversion requires an external FFmpeg installation in this candidate. No complete subscription, universal playback or performance guarantee is made.
+## Installation
 
-Manually tested by the project owner on Apple Silicon macOS. The release archive has passed integrity, signature and targeted privacy checks. Public distribution remains pending completion of third-party licensing and corresponding-source requirements, followed by owner approval.
+1. Download MacTube-Beta-1.dmg.
+2. Open the disk image.
+3. Drag MacTube into Applications.
+4. Open MacTube.
+
+Requires an Apple Silicon Mac running macOS 14 or later.
+
+## What's improved
+
+- Corrected the MacTube application icon.
+- Removed the unwanted white bezel.
+- New DMG installer preserves the original MacTube icon.
+
+This is a beta release. Feedback and bug reports are welcome.
+
+MacTube is ad-hoc signed and not Apple-notarized. macOS may require approval through Privacy & Security in System Settings.
+
+MacTube is independent and is not affiliated with YouTube or Google.

@@ -6,7 +6,7 @@
 
 
 ![Public Beta](https://img.shields.io/badge/Release-Public%20Beta-orange)
-![Version](https://img.shields.io/badge/Version-6.0.1-blue)
+![Version](https://img.shields.io/badge/Version-Beta%201-blue)
 ![macOS](https://img.shields.io/badge/macOS-14%2B-black)
 ![Apple Silicon](https://img.shields.io/badge/Apple%20Silicon-ARM64-green)
 
@@ -24,7 +24,7 @@
 
 MacTube is an independent native Swift/SwiftUI media client for Apple Silicon Macs running macOS 14 or later. It is not affiliated with, endorsed by, or an official product of YouTube or Google.
 
-**MacTube 6.0.1 (29) — Public Beta. Manually tested on Apple Silicon macOS.**
+**MacTube Beta Version 1. Manually tested on Apple Silicon macOS.**
 
 ## Features
 
@@ -34,11 +34,11 @@ Public defaults use 60 Hz; 120 Hz and Match Display are optional. Refresh prefer
 
 ## Installation
 
-After a public release is approved, download its `MacTube-6.0.1-macOS-arm64.zip` and matching SHA-256 file from this repository's Releases page. Check the archive with `shasum -a 256`, unzip it, and copy MacTube.app to Applications. No developer checkout is needed for playback.
+Download `MacTube-Beta-1.dmg` and matching SHA-256 file from this repository's Releases page. Check the archive with `shasum -a 256`, open the DMG, and drag MacTube into Applications. No developer checkout is needed for playback.
 
 The prepared build uses ad-hoc signing and is **not Developer ID signed or notarized**. macOS may block the first launch. Only if you trust the verified download, attempt to open it, then review Privacy & Security in System Settings and use Open Anyway when offered. Do not disable Gatekeeper globally.
 
-No public release is available from this staging repository yet.
+Download MacTube Beta Version 1 from the Releases page.
 
 ## First launch and local media
 
