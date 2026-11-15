@@ -1,0 +1,67 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Xcode user data
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+DerivedData/
+*.xcarchive
+*.ipa
+*.dSYM/
+*.dSYM.zip
+
+# Swift build artifacts
+.build/
+.swiftpm/xcode/package.xcworkspace/
+SourcePackages/
+
+# Local build and release output
+build/
+dist/
+outputs/
+checkpoints/
+backups/
+*.app/
+*.dmg
+*.zip
+*.tar.gz
+
+# Private credentials and configuration
+.env
+.env.*
+!.env.example
+*.p12
+*.pfx
+*.pem
+*.key
+*.mobileprovision
+*.provisionprofile
+GoogleService-Info.plist
+cookies.txt
+*credentials*.json
+*secrets*.json
+
+# Private application data
+*.sqlite
+*.sqlite3
+*.sqlite-wal
+*.sqlite-shm
+*.db
+*.log
+
+# Development backups
+*.bak
+*.backup
+*.orig
+*.pre-*
+*~
+
+# Xcode public build output
+/Build/
+/DerivedData/
