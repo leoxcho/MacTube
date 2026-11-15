@@ -2,7 +2,7 @@
   <img src="SmartTubeApp/SmartTubeApp/Assets.xcassets/MacTubeIcon.appiconset/mactube-1024.png" width="160" alt="MacTube icon">
 </p>
 
-# MacTube
+# MacTube (Beta)
 
 
 ![Public Beta](https://img.shields.io/badge/Release-Public%20Beta-orange)
